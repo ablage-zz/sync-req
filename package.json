@@ -1,6 +1,6 @@
 {
   "name": "sync-req",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Synchronous request without extensively using the filesystem.",
   "license": "MIT",
   "main": "index.js",

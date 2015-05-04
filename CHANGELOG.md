@@ -1,6 +1,8 @@
 CHANGELOG
 =========
 
+v0.1.1 - 05/04/15
+* Update sync-module version
 * Add tests
 * Add Code Climate
 
