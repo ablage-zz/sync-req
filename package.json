@@ -21,9 +21,16 @@
     "sync",
     "request"
   ],
+  "scripts": {
+    "test": "istanbul cover -- _mocha --reporter spec",
+    "docs": "yuidoc ."
+  },
   "dependencies": {
+    "chai": "^2.3.0",
     "http-response-object": "^1.0.1",
+    "istanbul": "^0.3.13",
     "json-buffer": "^2.0.11",
+    "mocha": "^2.2.4",
     "promise": "^7.0.1",
     "sync-module": "^0.1.0",
     "then-request": "^2.1.1"
